@@ -1,6 +1,8 @@
 # ✨CS 뿌셔뿌셔!✨ (CS-Scattered)
 ## 1. 활용한 도서
-![alt text](image.png){: width="300px", height="500px"}
+<img src="image.png" width="300" height="400"/>  
+<br>  
+
 - [혼자 공부하는 컴퓨터 구조 운영체제](https://hongong.hanbit.co.kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/)
 - 진행 목차
   1. 컴퓨터 구조 시작하기
