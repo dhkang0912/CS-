@@ -31,7 +31,13 @@
   - 오프라인 시 일요일 오후 3시
   - 온라인 시 월요일 오후 9시 30분
 
-## 3. Collaborator
+## 3. 역할
+1. 팀장 : doohong
+2. 부팀장 : yehi
+3. 백업 : minyeong
+4. 알리미 : seongeun
+
+## 4. Collaborator
 | doohong | minyeong | seongeun | yeji |
 | --- | --- | --- | --- |
 | <a href="https://github.com/dhkang"><img src="https://github.com/dhkang.png" width="100"></a> | <a href="https://github.com/minyeong981"><img src="https://github.com/minyeong981.png" width="100"></a> | <a href="https://github.com/KSE0514"><img src="https://github.com/KSE0514.png" width="100"></a> | <a href="https://github.com/Sophia0705"><img src="https://github.com/Sophia0705.png" width="100"></a> |
