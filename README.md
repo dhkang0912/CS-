@@ -21,3 +21,8 @@
   - 현재 rep fork 하여 자신이 공부한 흔적 작성
 - 주차별 내용에 맞는 문제와 그 답을 3개씩 만들어오기
 - 서로 문제를 내고 답을 맞추고 설명해주면서 익히기
+
+## 3. Contributors
+|doohong|minyeong|seongeun|yeji|
+|---|---|---|---|
+
