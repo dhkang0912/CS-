@@ -51,7 +51,7 @@ flowchart TD;
 - 입출력장치(input/output device)
 
 #### 이미지로 확인하는 네 가지 핵심 부품
-<img src="image.png" width="400px" height="250px" />  
+<img src="./메인보드 구조.png" width="400px" height="250px" />  
 
 1. 메인보드
 2. 시스템버스
