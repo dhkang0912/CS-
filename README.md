@@ -22,7 +22,7 @@
 - 주차별 내용에 맞는 문제와 그 답을 3개씩 만들어오기
 - 서로 문제를 내고 답을 맞추고 설명해주면서 익히기
 
-## 3. Contributors
+## 3. Collaborator
 | doohong | minyeong | seongeun | yeji |
 | --- | --- | --- | --- |
 | <a href="https://github.com/dhkang"><img src="https://github.com/dhkang.png" width="100"></a> | <a href="https://github.com/minyeong981"><img src="https://github.com/minyeong981.png" width="100"></a> | <a href="https://github.com/KSE0514"><img src="https://github.com/KSE0514.png" width="100"></a> | <a href="https://github.com/Sophia0705"><img src="https://github.com/Sophia0705.png" width="100"></a> |
