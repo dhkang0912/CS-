@@ -23,32 +23,9 @@
 - 서로 문제를 내고 답을 맞추고 설명해주면서 익히기
 
 ## 3. Contributors
-<div>
-  <span style="display: inline-block; margin-right: 20px;">
-    <h3>doohong</h3>
-    <a href="https://github.com/dhkang">
-      <img src="https://github.com/dhkang.png" width="100">
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
-    <h3>minyeong</h3>
-    <a href="https://github.com/minyeong981">
-      <img src="https://github.com/minyeong981.png" width="100">
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
-    <h3>seongeun</h3>
-    <a href="https://github.com/KSE0514">
-      <img src="https://github.com/KSE0514.png" width="100">
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
-    <h3>yeji</h3>
-    <a href="https://github.com/Sophia0705">
-      <img src="https://github.com/Sophia0705.png" width="100">
-    </a>
-  </span>
-</div>
+| doohong | minyeong | seongeun | yeji |
+| --- | --- | --- | --- |
+| <a href="https://github.com/dhkang"><img src="https://github.com/dhkang.png" width="100"></a> | <a href="https://github.com/minyeong981"><img src="https://github.com/minyeong981.png" width="100"></a> | <a href="https://github.com/KSE0514"><img src="https://github.com/KSE0514.png" width="100"></a> | <a href="https://github.com/Sophia0705"><img src="https://github.com/Sophia0705.png" width="100"></a> |
 
 
 
