@@ -40,7 +40,7 @@
 ## 4. Collaborator
 | doohong | minyeong | seongeun | yeji |
 | --- | --- | --- | --- |
-| <a href="https://github.com/dhkang"><img src="https://github.com/dhkang.png" width="100"></a> | <a href="https://github.com/minyeong981"><img src="https://github.com/minyeong981.png" width="100"></a> | <a href="https://github.com/KSE0514"><img src="https://github.com/KSE0514.png" width="100"></a> | <a href="https://github.com/Sophia0705"><img src="https://github.com/Sophia0705.png" width="100"></a> |
+| <a href="https://github.com/dhkang0912"><img src="https://github.com/dhkang0912.png" width="100"></a> | <a href="https://github.com/minyeong981"><img src="https://github.com/minyeong981.png" width="100"></a> | <a href="https://github.com/KSE0514"><img src="https://github.com/KSE0514.png" width="100"></a> | <a href="https://github.com/Sophia0705"><img src="https://github.com/Sophia0705.png" width="100"></a> |
 
 
 
