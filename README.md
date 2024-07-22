@@ -33,7 +33,7 @@
 
 ## 3. 역할
 1. 팀장 : doohong
-2. 부팀장 : yehi
+2. 부팀장 : yeji
 3. 백업 : minyeong
 4. 알리미 : seongeun
 
