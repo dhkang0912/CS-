@@ -37,6 +37,7 @@
   - SLC (Single Level Cell): 1비트/셀
   - MLC (Multi Level Cell): 2비트/셀
   - TLC (Triple Level Cell): 3비트/셀
+    ![alt text](image.png)
 
 - **특징**:
   - 덮어쓰기 불가능
